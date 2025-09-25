@@ -16,7 +16,7 @@
 ![](https://i.pinimg.com/236x/3f/fa/55/3ffa553046061e8ba9058b71b6e54418.jpg)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Igrekop&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Igrekop&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Igrekop&icon=7&color=10)](https://visitcount.itsvg.in)
