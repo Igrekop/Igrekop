@@ -10,7 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Igrekop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Igrekop&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igrekop&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igrekop&layout=compact&theme=dark&cache_seconds=1800)
+
 ### ✍️ Random Dev Quote
 ![](https://i.pinimg.com/236x/3f/fa/55/3ffa553046061e8ba9058b71b6e54418.jpg)
 
@@ -23,9 +24,5 @@
   ## 💰 Money, well, get back
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/yvandushit) 
 
-### 🛠️ Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igrekop&layout=compact&theme=dark)
-
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
