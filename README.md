@@ -10,8 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Igrekop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Igrekop&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Igrekop&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igrekop&layout=compact&theme=dark)
 ### ✍️ Random Dev Quote
 ![](https://i.pinimg.com/236x/3f/fa/55/3ffa553046061e8ba9058b71b6e54418.jpg)
 
