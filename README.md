@@ -23,5 +23,9 @@
   ## 💰 Money, well, get back
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/yvandushit) 
 
+### 🛠️ Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igrekop&layout=compact&theme=dark)
+
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
