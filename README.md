@@ -1,5 +1,5 @@
 # 💫 About Me:
-👾 Yo, moi c’est Yvann  <br><br>💡 Étudiant en informatique, toujours en train de coder un truc (et de le déboguer à 3h du mat).  <br>🕹️ J’aime créer des bots, des jeux et des applis qui rendent la vie plus fun ou plus simple.  <br>🎸 Quand je ne code pas, je gratte sur ma guitare/basse en mode rock-metal-grunge, parce que je suis vraiment trop underground 🤪.  <br>☕ Carburant officiel : ricard + riffs bien lourds.  <br><br>🌍 Mes projets GitHub : mélange entre études, expérimentations et side-projects qui me tiennent à cœur.<br> <br>« Code, café et distorsion. »<br>
+👾 Yo, moi c’est Yvann  <br><br>💡 Étudiant en informatique, toujours en train de coder un truc (et de le déboguer à 3h du mat).  <br>🕹️ J’aime créer des bots, des jeux et des applis qui rendent la vie plus fun ou plus simple.  <br>🎸 Quand je ne code pas, je gratte sur ma guitare/basse en mode rock-metal-grunge, parce que je suis vraiment trop underground 🤪.  <br>☕ Carburant officiel : ricard + riffs bien lourds.  <br><br>🌍 Mes projets GitHub : mélange entre études, expérimentations et side-projects qui me tiennent à cœur.<br> <br>« Réviser, c'est douter de ses capacités. Prendre son temps c'est douter de son talent »<br>
 
 
 ## 🌐 Socials:
