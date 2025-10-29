@@ -22,7 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=Igrekop&icon=7&color=10)](https://visitcount.itsvg.in)
 
   ## 💰 Money, well, get back
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/yvandushit) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yvandushit) 
 
 
   
