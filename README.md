@@ -85,15 +85,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows8 logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-indol.vercel.app/api?username=Igrekop&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=fr&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-sigma-indol.vercel.app/api/top-langs?username=Igrekop&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=70&section=header&reversal=false&text=Vous%20pouvez%20me%20contacter%20par%20ces%20r%C3%A9seaux%20:&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
