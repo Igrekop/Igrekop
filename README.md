@@ -11,7 +11,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&section=header&reversal=false&text=Les%20outils%20que%20j'utilise%20:&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&section=header&reversal=false&text=Les%20outils%20que%20j'utilise%20:&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
@@ -78,7 +78,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&section=header&reversal=false&text=Vous%20pouvez%20me%20contacter%20par%20ces%20r%C3%A9seaux%20:&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&section=header&reversal=false&text=Vous%20pouvez%20me%20contacter%20par%20ces%20r%C3%A9seaux%20:&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
@@ -98,7 +98,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Les%20musiques%20que%20j'%C3%A9coute%20:&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=80&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Les%20musiques%20que%20j'%C3%A9coute%20:&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
