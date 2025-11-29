@@ -6,7 +6,14 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">
+🎸 Musicien passionné, je joue de la guitare et de la basse, et j’aime explorer des univers créatifs variés.<br>
+💻 Le code me permet de progresser chaque jour en créant des projets personnels et académiques.<br>
+💡 Curieux et motivé, je m'intéresse à la conception de logiciels, au développement web et aux outils numériques.<br>
+📂 Sur ce compte, vous trouverez mes travaux universitaires ainsi que quelques projets personnels.<br>
+🚀 Objectif : Créer et partager des projets qui me ressemblent.
+</p>
+
 
 ###
 
@@ -113,14 +120,20 @@
 
 ###
 
-<img align="right" height="200" src="https://i.postimg.cc/vTc3bDyd/youtube-video-gif.gif"  />
-
-###
-
-<div align="left">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/56093db5-8395-4282-aded-1d4f3af17ab3" 
+       alt="youtube-video-gif" 
+       height="200" 
+       style="vertical-align: bottom; margin-right: 20px;">
+       
   <a href="https://open.spotify.com/user/cii8rg4m4x5qbrkm388uov7gi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cii8rg4m4x5qbrkm388uov7gi&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cii8rg4m4x5qbrkm388uov7gi&count=5&unique=true" 
+         alt="Spotify recently played" 
+         height="200" 
+         style="vertical-align: bottom;">
   </a>
-</div>
+</p>
+
+
 
 ###
